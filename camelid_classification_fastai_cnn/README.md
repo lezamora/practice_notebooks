@@ -1,2 +1,2 @@
 # camelid_classification
-Proyecto para diferenciar camélidos
+Proyecto para diferenciar camélidos utilizando Fastai.
